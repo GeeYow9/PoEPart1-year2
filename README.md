@@ -23,7 +23,7 @@ USER GUIDE
 
 3: After the logo is shown then the system will welcome you with the message:
 
-"Welcome to the ChatbotAi"
+"Welcome to the CyberSecurity Chatbot"
 
 4: After the message, the system will tell the use it's name "Frank Lamperd" then it will prompt the user for their username
 
